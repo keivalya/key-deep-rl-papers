@@ -57,76 +57,63 @@ List of papers in RL that are worth reading.
     *Lillicrap et al., 2015.*  
     *Algorithm:* DDPG.  
 
-14. **Addressing Function Approximation Error in Actor-Critic Methods**  
+14. **[Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)**  
     *Fujimoto et al., 2018.*  
     *Algorithm:* TD3.  
-    [Link](https://arxiv.org/abs/1802.09477)
 
 ## Distributional Reinforcement Learning
 
-15. **A Distributional Perspective on Reinforcement Learning**  
+15. **[A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887)**  
     *Bellemare et al., 2017.*  
-    *Algorithm:* C51.  
-    [Link](https://arxiv.org/abs/1707.06887)
+    *Algorithm:* C51.
 
-16. **Distributional Reinforcement Learning with Quantile Regression**  
+16. **[Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/abs/1710.10044)**  
     *Dabney et al., 2017.*  
     *Algorithm:* QR-DQN.  
-    [Link](https://arxiv.org/abs/1710.10044)
 
-17. **Implicit Quantile Networks for Distributional Reinforcement Learning**  
+17. **[Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/abs/1806.06923)**  
     *Dabney et al., 2018.*  
-    *Algorithm:* IQN.  
-    [Link](https://arxiv.org/abs/1806.06923)
+    *Algorithm:* IQN.
 
 ## Hybrid and Alternative Approaches
 
-18. **Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic**  
+18. **[Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247)**  
     *Gu et al., 2016.*  
     *Algorithm:* Q-Prop.  
-    [Link](https://arxiv.org/abs/1611.02247)
 
-19. **Bridging the Gap Between Value and Policy Based Reinforcement Learning**  
+19. **[Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892)**  
     *Nachum et al., 2017.*  
     *Algorithm:* PCL.  
-    [Link](https://arxiv.org/abs/1702.08892)
 
-20. **Combining Policy Gradient and Q-learning**  
+20. **[Combining Policy Gradient and Q-learning](https://arxiv.org/abs/1611.01626)**  
     *O'Donoghue et al., 2016.*  
-    *Algorithm:* PGQL.  
-    [Link](https://arxiv.org/abs/1611.01626)
+    *Algorithm:* PGQL.
 
-21. **Evolution Strategies as a Scalable Alternative to Reinforcement Learning**  
+21. **[Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864)**  
     *Salimans et al., 2017.*  
     *Algorithm:* Evolution Strategies (ES).  
-    [Link](https://arxiv.org/abs/1703.03864)
 
 ## Exploration and Intrinsic Motivation
 
-22. **VIME: Variational Information Maximizing Exploration**  
+22. **[VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)**  
     *Houthooft et al., 2016.*  
-    *Algorithm:* VIME.  
-    [Link](https://arxiv.org/abs/1605.09674)
+    *Algorithm:* VIME.
 
-23. **Unifying Count-Based Exploration and Intrinsic Motivation**  
+23. **[Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868)**  
     *Bellemare et al., 2016.*  
-    *Algorithm:* CTS-based Pseudocounts.  
-    [Link](https://arxiv.org/abs/1606.01868)
+    *Algorithm:* CTS-based Pseudocounts.
 
-24. **Curiosity-driven Exploration by Self-supervised Prediction**  
+24. **[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)**  
     *Pathak et al., 2017.*  
     *Algorithm:* Intrinsic Curiosity Module (ICM).  
-    [Link](https://arxiv.org/abs/1705.05363)
 
-25. **Exploration by Random Network Distillation**  
+25. **[Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)**  
     *Burda et al., 2018.*  
-    *Algorithm:* RND.  
-    [Link](https://arxiv.org/abs/1810.12894)
+    *Algorithm:* RND.
 
-26. **Hindsight Experience Replay**  
+26. **[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)**  
     *Andrychowicz et al., 2017.*  
-    *Algorithm:* HER.  
-    [Link](https://arxiv.org/abs/1707.01495)
+    *Algorithm:* HER.
 
 ## Episodic Control and Memory-Based Methods
 
