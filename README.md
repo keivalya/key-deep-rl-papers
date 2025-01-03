@@ -125,7 +125,7 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
     *Pritzel et al., 2017.*  
     *Algorithm:* NEC.
 
-# Game Applications and Breakthrough Systems
+## Game Applications and Breakthrough Systems
 
 29. **[Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)**  
     *Zoph and Le, 2016.*  
