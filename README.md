@@ -1,74 +1,61 @@
-# Key Reinforcement Learning Research Papers & Algorithms
+# Key Deep Reinforcement Learning Research Papers & Algorithms
 List of papers in RL that are worth reading.
 
 ## Foundational Reinforcement Learning Algorithms
 
-1. **Playing Atari with Deep Reinforcement Learning**  
+1. **[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)**  
    *Mnih et al., 2013.*  
-   *Algorithm:* DQN.  
-   [Link](https://arxiv.org/abs/1312.5602)
+   *Algorithm:* DQN.
 
-2. **Deep Recurrent Q-Learning for Partially Observable MDPs**  
+2. **[Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)**  
    *Hausknecht and Stone, 2015.*  
    *Algorithm:* Deep Recurrent Q-Learning.  
-   [Link](https://arxiv.org/abs/1507.06527)
 
-3. **Dueling Network Architectures for Deep Reinforcement Learning**  
+3. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
    *Algorithm:* Dueling DQN.  
-   [Link](https://arxiv.org/abs/1511.06581)
 
-4. **Deep Reinforcement Learning with Double Q-learning**  
+4. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
    *Van Hasselt et al., 2015.*  
-   *Algorithm:* Double DQN.  
-   [Link](https://arxiv.org/abs/1509.06461)
+   *Algorithm:* Double DQN.
 
-5. **Prioritized Experience Replay**  
+5. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
    *Schaul et al., 2015.*  
-   *Algorithm:* Prioritized Experience Replay (PER).  
-   [Link](https://arxiv.org/abs/1511.05952)
+   *Algorithm:* Prioritized Experience Replay (PER).
 
-6. **Rainbow: Combining Improvements in Deep Reinforcement Learning**  
+6. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
    *Hessel et al., 2017.*  
-   *Algorithm:* Rainbow DQN.  
-   [Link](https://arxiv.org/abs/1710.02298)
+   *Algorithm:* Rainbow DQN.
 
-7. **Asynchronous Methods for Deep Reinforcement Learning**  
+7. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
    *Mnih et al., 2016.*  
-   *Algorithm:* A3C.  
-   [Link](https://arxiv.org/abs/1602.01783)
+   *Algorithm:* A3C.
 
 ## Policy Optimization and Actor-Critic Methods
 
-8. **Trust Region Policy Optimization**  
+8. **[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)**  
    *Schulman et al., 2015.*  
-   *Algorithm:* TRPO.  
-   [Link](https://arxiv.org/abs/1502.05477)
+   *Algorithm:* TRPO.
 
-9. **High-Dimensional Continuous Control Using Generalized Advantage Estimation**  
+9. **[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)**  
    *Schulman et al., 2015.*  
    *Algorithm:* GAE.  
-   [Link](https://arxiv.org/abs/1506.02438)
 
-10. **Proximal Policy Optimization Algorithms**  
+10. **[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)**  
     *Schulman et al., 2017.*  
     *Algorithm:* PPO-Clip, PPO-Penalty.  
-    [Link](https://arxiv.org/abs/1707.06347)
 
-11. **Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor**  
+11. **[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)**  
     *Haarnoja et al., 2018.*  
     *Algorithm:* SAC.  
-    [Link](https://arxiv.org/abs/1801.01290)
 
-12. **Deterministic Policy Gradient Algorithms**  
+12. **[Deterministic Policy Gradient Algorithms](https://arxiv.org/abs/1509.02971)**  
     *Silver et al., 2014.*  
     *Algorithm:* DPG.  
-    [Link](https://arxiv.org/abs/1509.02971)
 
-13. **Continuous Control with Deep Reinforcement Learning**  
+13. **[Continuous Control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971)**  
     *Lillicrap et al., 2015.*  
     *Algorithm:* DDPG.  
-    [Link](https://arxiv.org/abs/1509.02971)
 
 14. **Addressing Function Approximation Error in Actor-Critic Methods**  
     *Fujimoto et al., 2018.*  
