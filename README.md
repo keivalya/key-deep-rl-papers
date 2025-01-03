@@ -117,132 +117,108 @@ List of papers in RL that are worth reading.
 
 ## Episodic Control and Memory-Based Methods
 
-27. **Model-Free Episodic Control**  
+27. **[Model-Free Episodic Control](https://arxiv.org/abs/1606.04460)**  
     *Blundell et al., 2016.*  
-    *Algorithm:* MFEC.  
-    [Link](https://arxiv.org/abs/1606.04460)
+    *Algorithm:* MFEC.
 
-28. **Neural Episodic Control**  
+28. **[Neural Episodic Control](https://arxiv.org/abs/1703.01988)**  
     *Pritzel et al., 2017.*  
-    *Algorithm:* NEC.  
-    [Link](https://arxiv.org/abs/1703.01988)
+    *Algorithm:* NEC.
 
 # Game Applications and Breakthrough Systems
 
-29. **Neural Architecture Search with Reinforcement Learning**  
+29. **[Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)**  
     *Zoph and Le, 2016.*  
-    *Algorithm:* NAS-RL.  
-    [Link](https://arxiv.org/abs/1611.01578)
+    *Algorithm:* NAS-RL.
 
-30. **AlphaGo Zero: Mastering the Game of Go without Human Knowledge**  
+30. **[AlphaGo Zero: Mastering the Game of Go without Human Knowledge](https://www.nature.com/articles/nature24270)**  
     *Silver et al., 2017.*  
-    *Algorithm:* AlphaGo Zero.  
-    [Link](https://www.nature.com/articles/nature24270)
+    *Algorithm:* AlphaGo Zero.
 
-31. **Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**  
+31. **[Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815)**  
     *Silver et al., 2018.*  
-    *Algorithm:* AlphaZero.  
-    [Link](https://arxiv.org/abs/1712.01815)
+    *Algorithm:* AlphaZero.
 
-32. **Mastering Atari, Go, Chess, and Shogi by Planning with a Learned Model**  
+32. **[Mastering Atari, Go, Chess, and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)**  
     *Schrittwieser et al., 2019.*  
-    *Algorithm:* MuZero.  
-    [Link](https://arxiv.org/abs/1911.08265)
+    *Algorithm:* MuZero.
 
 ##  Model-Based Reinforcement Learning
 
-33. **Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning**  
+33. **[Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/abs/1708.02596)**  
     *Nagabandi et al., 2018.*  
-    *Algorithm:* Model-Based Dyna.  
-    [Link](https://arxiv.org/abs/1708.02596)
+    *Algorithm:* Model-Based Dyna.
 
-34. **World Models**  
+34. **[World Models](https://arxiv.org/abs/1803.10122)**  
     *Ha and Schmidhuber, 2018.*  
-    *Algorithm:* World Models.  
-    [Link](https://arxiv.org/abs/1803.10122)
+    *Algorithm:* World Models.
 
-35. **Imagination-Augmented Agents for Deep Reinforcement Learning**  
+35. **[Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203)**  
     *Racanière et al., 2017.*  
-    *Algorithm:* Imagination-Augmented Agents (I2A).  
-    [Link](https://arxiv.org/abs/1707.06203)
+    *Algorithm:* Imagination-Augmented Agents (I2A).
 
-36. **Learning to Think—Model-Based Control**  
+36. **[Learning to Think—Model-Based Control](https://arxiv.org/abs/1707.06203)**  
     *Weber et al., 2017.*  
-    *Algorithm:* Value Prediction Networks (VPN).  
-    [Link](https://arxiv.org/abs/1707.06203)
+    *Algorithm:* Value Prediction Networks (VPN).
 
 ## Hierarchical Reinforcement Learning and Temporal Abstractions
 
-37. **FeUdal Networks for Hierarchical Reinforcement Learning**  
+37. **[FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)**  
     *Vezhnevets et al., 2017.*  
-    *Algorithm:* Feudal Networks.  
-    [Link](https://arxiv.org/abs/1703.01161)
+    *Algorithm:* Feudal Networks.
     
-38. **Hierarchical Reinforcement Learning with Timed Subgoals**  
+38. **[Hierarchical Reinforcement Learning with Timed Subgoals](https://arxiv.org/abs/1604.06057)**  
     *Kulkarni et al., 2016.*  
-    *Algorithm:* Hierarchical-DQN (h-DQN).  
-    [Link](https://arxiv.org/abs/1604.06057)
+    *Algorithm:* Hierarchical-DQN (h-DQN).
 
-39. **Learning with Hierarchical Attention**  
+39. **[Learning with Hierarchical Attention](https://arxiv.org/abs/1805.08296)**  
     *Nachum et al., 2018.*  
-    *Algorithm:* HIRO.  
-    [Link](https://arxiv.org/abs/1805.08296)
+    *Algorithm:* HIRO.
 
-40. **Options Framework for Hierarchical Reinforcement Learning**  
+40. **[Options Framework for Hierarchical Reinforcement Learning](https://www.jair.org/index.php/jair/article/view/1031)**  
     *Sutton et al., 1999.*  
-    *Algorithm:* Options.  
-    [Link](https://www.jair.org/index.php/jair/article/view/1031)
+    *Algorithm:* Options.
 
-41. **Playing with Options**  
+41. **[Playing with Options](https://arxiv.org/abs/1609.05140)**  
     *Bacon et al., 2017.*  
-    *Algorithm:* Option-Critic.  
-    [Link](https://arxiv.org/abs/1609.05140)
+    *Algorithm:* Option-Critic.
 
-42. **Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation**  
+42. **[Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057)**  
     *Kulkarni et al., 2016.*  
-    *Algorithm:* h-DQN with Intrinsic Motivation.  
-    [Link](https://arxiv.org/abs/1604.06057)
+    *Algorithm:* h-DQN with Intrinsic Motivation.
 
-43. **Intrinsic Motivation for Hierarchical Reinforcement Learning**  
+43. **[Intrinsic Motivation for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1906.04009)**  
     *Nachum et al., 2019.*  
-    *Algorithm:* Multi-level HIRO.  
-    [Link](https://arxiv.org/abs/1906.04009)
+    *Algorithm:* Multi-level HIRO.
 
 ## Offline Reinforcement Learning
 
-44. **Batch Constrained Q-Learning**  
+44. **[Batch Constrained Q-Learning](https://arxiv.org/abs/1812.02900)**  
     *Fujimoto et al., 2019.*  
-    *Algorithm:* BCQ.  
-    [Link](https://arxiv.org/abs/1812.02900)
+    *Algorithm:* BCQ.
 
-45. **Conservative Q-Learning for Offline Reinforcement Learning**  
+45. **[Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779)**  
     *Kumar et al., 2020.*  
-    *Algorithm:* CQL.  
-    [Link](https://arxiv.org/abs/2006.04779)
+    *Algorithm:* CQL.
 
-46. **Behavior Regularized Actor Critic**  
+46. **[Behavior Regularized Actor Critic](https://arxiv.org/abs/1911.11361)**  
     *Wu et al., 2019.*  
-    *Algorithm:* BRAC.  
-    [Link](https://arxiv.org/abs/1911.11361)
+    *Algorithm:* BRAC.
 
-47. **Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction**  
+47. **[Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction](https://arxiv.org/abs/2003.05990)**  
     *Kumar et al., 2020.*  
-    *Algorithm:* Bootstrapped Q-Learning.  
-    [Link](https://arxiv.org/abs/2003.05990)
+    *Algorithm:* Bootstrapped Q-Learning.
 
-48. **Offline Meta-Reinforcement Learning with Advantage Weighting**  
+48. **[Offline Meta-Reinforcement Learning with Advantage Weighting](https://arxiv.org/abs/2006.09359)**  
     *Fu et al., 2020.*  
-    *Algorithm:* AWAC.  
-    [Link](https://arxiv.org/abs/2006.09359)
+    *Algorithm:* AWAC.
 
 ## Safe and Constrained Reinforcement Learning
 
-49. **Safe Exploration in Reinforcement Learning**  
+49. **[Safe Exploration in Reinforcement Learning](https://arxiv.org/abs/1705.10710)**  
     *Berkenkamp et al., 2017.*  
-    *Algorithm:* SafeRL.  
-    [Link](https://arxiv.org/abs/1705.10710)
+    *Algorithm:* SafeRL.
 
-50. **Efficient Exploration through Bayesian Optimization for RL**  
+50. **[Efficient Exploration through Bayesian Optimization for RL](https://arxiv.org/abs/1012.2599)**  
     *Srinivas et al., 2010.*  
-    *Algorithm:* BO-RL.  
-    [Link](https://arxiv.org/abs/1012.2599)
+    *Algorithm:* BO-RL.
