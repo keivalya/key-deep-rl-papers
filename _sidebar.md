@@ -1,5 +1,5 @@
 * [Home](/)
-* [Foundational Reinforcement Learning Algorithms](#foundational-reinforcement-learning-algorithms)
+* [Foundational Reinforcement Learning Algorithms](foundational-rl-algorithms.md)
 * [Policy Optimization and Actor-Critic Methods](#policy-optimization-and-actor-critic-methods)
 * [Exploration and Intrinsic Motivation](#exploration-and-intrinsic-motivation)
 * [Offline Reinforcement Learning](#offline-reinforcement-learning)
