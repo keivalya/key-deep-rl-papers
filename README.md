@@ -15,6 +15,8 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
 
    **Proposed Approach?** A system using a CNN trained with a variant of Q-learning. The network takes raw pixel data as input and outputs a value function estimating future rewards.
 
+   **Key results?** Outperformed previous methods on six out of the seven games. It also surpassed human expert performance on three of them.
+
 4. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
    *Algorithm:* Dueling DQN.  
