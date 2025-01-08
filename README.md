@@ -12,6 +12,7 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
    *Algorithm:* Deep Recurrent Q-Learning.
 
    **Challenge?** The paper tackles the long-standing challenge of enabling agents to learn control policies directly from high-dimensional sensory inputs (like vision), using reinforcement learning (RL). Previous RL relied heavily on hand-crafted features, limiting its applicability to complex real-world scenarios.
+
    **Proposed Approach?** A system using a convolutional neural network (CNN) trained with a variant of Q-learning. The network takes raw pixel data as input and outputs a value function estimating future rewards.
 
 4. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
