@@ -9,4 +9,4 @@
 * [Model-Based Reinforcement Learning](8-model-based-rl.md)
 * [Hierarchical Reinforcement Learning and Temporal Abstractions](9-hierarchical-reinforcement-learning-and-temporal-abstractions.md)
 * [Offline Reinforcement Learning](10-offline-rl.md)
-* [Safe and Constrained Reinforcement Learning](11-safe-and-constrained-reinforcement-learning.md)
+<!-- * [Safe and Constrained Reinforcement Learning](11-safe-and-constrained-reinforcement-learning.md) -->
