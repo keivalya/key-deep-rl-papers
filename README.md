@@ -7,15 +7,15 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
    *Mnih et al., 2013.*  
    *Algorithm:* DQN.
 
-2. **[Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)**  
-   *Hausknecht and Stone, 2015.*  
-   *Algorithm:* Deep Recurrent Q-Learning.
-
    **Challenge?** The paper tackles the long-standing challenge of enabling agents to learn control policies directly from high-dimensional sensory inputs (here, vision), using RL. Previous RL relied heavily on hand-crafted features, limiting its applicability to complex real-world scenarios.
 
    **Proposed Approach?** A system using a CNN trained with a variant of Q-learning. The network takes raw pixel data as input and outputs a value function estimating future rewards.
 
    **Key results?** Outperformed previous methods on six out of the seven games. It also surpassed human expert performance on three of them.
+
+3. **[Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)**  
+   *Hausknecht and Stone, 2015.*  
+   *Algorithm:* Deep Recurrent Q-Learning.
 
 4. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
