@@ -17,23 +17,29 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
    *Hausknecht and Stone, 2015.*  
    *Algorithm:* Deep Recurrent Q-Learning.
 
-4. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
+   **Challenge?** Standard Deep Q-Networks (DQNs) struggle with Partially Observable Markov Decision Processes (POMDPs) because they rely on complete state information (the game screen) at each decision point. DQNs use a limited history (typically 4 frames) and cannot remember events further in the past, making them unsuitable for games where long-term memory is crucial.
+
+   **Proposed Approach?** introduce Deep Recurrent Q-Network (DRQN) which incorporates an LSTM (Long Short-Term Memory) layer to integrate information over time and address partial observability.
+
+   **Key results?** DRQN handles noisy observations in POMDPs better by using an LSTM to integrate information through time. DRQN can perform well even when receiving only a single frame at each timestep. It provides a strong alternative to using frame stacking in regular DQN networks. While DRQN shows better generalization between MDPs and POMDPs, it does not show a systematic performance improvement versus regular DQNs.
+
+5. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
    *Algorithm:* Dueling DQN.  
 
-5. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
+6. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
    *Van Hasselt et al., 2015.*  
    *Algorithm:* Double DQN.
 
-6. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
+7. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
    *Schaul et al., 2015.*  
    *Algorithm:* Prioritized Experience Replay (PER).
 
-7. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
+8. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
    *Hessel et al., 2017.*  
    *Algorithm:* Rainbow DQN.
 
-8. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
+9. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
    *Mnih et al., 2016.*  
    *Algorithm:* A3C.
 
