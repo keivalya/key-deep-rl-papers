@@ -13,7 +13,7 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
 
    **Key results?** Outperformed previous methods on six out of the seven games. It also surpassed human expert performance on three of them.
 
-3. **[Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)**  
+2. **[Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)**  
    *Hausknecht and Stone, 2015.*  
    *Algorithm:* Deep Recurrent Q-Learning.
 
@@ -23,11 +23,11 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
 
    **Key results?** DRQN handles noisy observations in POMDPs better by using an LSTM to integrate information through time. DRQN can perform well even when receiving only a single frame at each timestep. It provides a strong alternative to using frame stacking in regular DQN networks. While DRQN shows better generalization between MDPs and POMDPs, it does not show a systematic performance improvement versus regular DQNs.
 
-5. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
+3. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
    *Algorithm:* Dueling DQN.  
 
-6. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
+4. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
    *Van Hasselt et al., 2015.*  
    *Algorithm:* Double DQN.
 
