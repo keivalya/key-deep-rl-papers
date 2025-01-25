@@ -31,15 +31,15 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
    *Van Hasselt et al., 2015.*  
    *Algorithm:* Double DQN.
 
-7. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
+5. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
    *Schaul et al., 2015.*  
    *Algorithm:* Prioritized Experience Replay (PER).
 
-8. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
+6. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
    *Hessel et al., 2017.*  
    *Algorithm:* Rainbow DQN.
 
-9. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
+7. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
    *Mnih et al., 2016.*  
    *Algorithm:* A3C.
 
