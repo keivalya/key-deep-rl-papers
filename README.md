@@ -25,23 +25,28 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
 
    **Key results?** DRQN handles noisy observations in POMDPs better by using an LSTM to integrate information through time. DRQN can perform well even when receiving only a single frame at each timestep. It provides a strong alternative to using frame stacking in regular DQN networks. While DRQN shows better generalization between MDPs and POMDPs, it does not show a systematic performance improvement versus regular DQNs.
 
-4. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
+4. **[Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/)**
+   *Cheng Chi, Siyuan Feng, Yilun Du, Zhenjia Xu, Eric Cousineau, Benjamin Burchfiel, Shuran Song, 2024.*
+   *Algorithm: Diffusion Policy*
+   Detailed breakdown is presented on YouTube at [Diffusion Policy with MaiaV Robotics!](https://www.youtube.com/watch?v=CtJDROYBmSs)
+
+6. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
    *Algorithm:* Dueling DQN.  
 
-5. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
+7. **[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)**  
    *Van Hasselt et al., 2015.*  
    *Algorithm:* Double DQN.
 
-6. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
+8. **[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)**  
    *Schaul et al., 2015.*  
    *Algorithm:* Prioritized Experience Replay (PER).
 
-7. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
+9. **[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)**  
    *Hessel et al., 2017.*  
    *Algorithm:* Rainbow DQN.
 
-8. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
+10. **[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)**  
    *Mnih et al., 2016.*  
    *Algorithm:* A3C.
 
