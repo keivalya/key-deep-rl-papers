@@ -28,6 +28,13 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
 4. **[Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/)**
    *Cheng Chi, Siyuan Feng, Yilun Du, Zhenjia Xu, Eric Cousineau, Benjamin Burchfiel, Shuran Song, 2024.*
    *Algorithm: Diffusion Policy*
+
+   **Challenge?** Traditional visuomotor policy learning approaches, such as behavior cloning (BC) and reinforcement learning (RL), struggle with multimodal action distributions, compounding errors, and unstable training dynamics. Standard BC methods assume a unimodal action distribution, leading to suboptimal performance in complex tasks requiring diverse strategies.  
+  
+  **Proposed Approach?** Introduce *Diffusion Policy*, a novel approach that models the action distribution as a conditional denoising diffusion process. This technique allows for multimodal action prediction by learning to iteratively refine noisy action samples into meaningful control outputs. The method builds upon the diffusion generative model framework, ensuring stable training and better exploration of diverse action trajectories.  
+  
+  **Key Results?** Diffusion Policy outperforms standard BC baselines in robot manipulation tasks, demonstrating superior generalization and robustness to out-of-distribution states. The approach effectively captures multimodal behavior, allowing agents to adapt to different strategies rather than committing to a single deterministic action. The paper shows that Diffusion Policy achieves state-of-the-art performance on several real-world robot control benchmarks.
+
    Detailed breakdown is presented on YouTube at [Diffusion Policy with MaiaV Robotics!](https://www.youtube.com/watch?v=CtJDROYBmSs)
 
 6. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
