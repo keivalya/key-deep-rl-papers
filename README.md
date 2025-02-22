@@ -1,5 +1,5 @@
 # Key Deep Reinforcement Learning Research Papers & Algorithms
-
+List of papers in RL that are worth reading. This is a brief, and curated list from already existing list by [Spinning-Up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) to reduce their work to (in my opinion) most important top-50 papers. Each week, I will be reading at least one of these papers, and share my insights on the same. I will also attempt to demonstrate that algorithm/research, depending on the nature of the work. This will help me breakdown complex topics into smaller bites for easier understanding of self, as well as the readers of these *blog-ish* tutorials.
 
 ## Foundational Reinforcement Learning Algorithms
 
