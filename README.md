@@ -37,6 +37,10 @@ List of papers in RL that are worth reading. This is a brief, and curated list f
 
    Detailed breakdown is presented on YouTube at [Diffusion Policy with MaiaV Robotics!](https://www.youtube.com/watch?v=CtJDROYBmSs)
 
+   External resources that I found insightful:
+   - [Diffusion Policy Explained by Fotios (Fotis) Lygerakis](https://medium.com/@ligerfotis/diffusion-policy-explained-14a3075ba26c#:~:text=By%20progressively%20adding%20and%20then%20removing%20noise,just%20dominant%20modes%20from%20the%20collected%20dataset.&text=So%2C%20if%20we%20train%20a%20Diffusion%20Model,to%20learn%20how%20to%20remove%20the%20noise.)
+   - [What are Diffusion Models? by Lilian Weng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+
 6. **[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)**  
    *Wang et al., 2015.*  
    *Algorithm:* Dueling DQN.  
